@@ -11,7 +11,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 **Desktop**
 
-<img src="./solution/desktop.png" height=70% width=70%>
+<img src="./solution/desktop.png" height=90% width=90%>
 
 **Mobile**
 
